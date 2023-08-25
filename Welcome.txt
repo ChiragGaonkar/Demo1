@@ -4,3 +4,8 @@ How to tell you about myself
 Whats your name;
 
 Just now updated
+
+Function main(){
+print("Hello world")
+print("Bug resolved")
+}
