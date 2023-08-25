@@ -10,6 +10,7 @@ print("Hello world")
 print("Bug resolved")
 Its a rainy day but looks sunny day Master Branch
 "It was a sunny day" in Bug123
-
 Feature 2 is Implemented in Master
+Implemeted Feature 1  Feature 1
 }
+
